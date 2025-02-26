@@ -73,9 +73,9 @@
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KakyoinRedhead/KakyoinRedhead/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KakyoinRedhead/KakyoinRedhead/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/KakyoinRedhead/KakyoinRedhead/output/snake.svg" alt="github-snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adam-justin-code/adam-justin-code/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adam-justin-code/adam-justin-code/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/adam-justin-code/adam-justin-code/output/snake.svg" alt="github-snake" />
 </picture>
 
 ###
